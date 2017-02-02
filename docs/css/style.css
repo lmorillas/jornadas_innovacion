@@ -2259,7 +2259,7 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-.btn, h1, h2, h3, h4, h5, h6, h1.special, .tile .tags span, aside { font-family: 'Oswald', sans-serif; }
+.btn, h1, h2, h3, h4, h5, h6, h1.special, h3.special, .tile .tags span, aside { font-family: 'Oswald', sans-serif; }
 
 body { font-family: 'Roboto Condensed', sans-serif; }
 
@@ -2290,6 +2290,8 @@ h1.special span { display: inline-block; position: relative; padding: 0 15px; ma
 h1.special span:before, h1.special span:after { content: ''; position: absolute; display: block; height: 1px; background: #e8e8e8; width: 99999999px; top: 50%; transform: translateY(-50%); }
 h1.special span:before { left: 100%; }
 h1.special span:after { right: 100%; }
+
+h3.special { position: relative; text-align: center; overflow: hidden; margin: 60px; font-size: 42px; line-height: 42px; font-weight: 400; color: #ff4545; }
 
 .tile { position: relative; box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135); margin-bottom: 125px; }
 .tile .inner-guts { padding: 50px; }

@@ -1,0 +1,22 @@
+ {% include header.html %}
+<div class="topper" style="height:400px; vertical-align: bottom;">
+    <span class="img" style="background-image: url('{{ page.featured_image }}');
+        background-position:bottom;"></span>
+    <br>
+    <div class="container">
+        <h1 class="special">{{ site.data.global.title }}</h1>
+        <br>
+        <h3 class="special">22-23 Septiembre - Zaragoza</h3>
+    </div>
+</div>
+<br>
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{content}}
+            </div>
+        </div>
+    </div>
+</main>
+{% include footer.html %}

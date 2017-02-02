@@ -1,12 +1,14 @@
 {% if page.featured_image or page.featured_video_id %}
-    <div class="topper">
+    <div class="topper" style="height:400px; vertical-align: bottom;">
         {% if page.featured_image %}
-        <span class="img" style="background-image: url('{{ page.featured_image }}');">
+        <span class="img" style="background-image: url('{{ page.featured_image }}');
+        background-position:bottom;">
         {% endif %}
 
         {% if page.featured_video_id %}
         <iframe src="https://www.youtube.com/embed/{{ page.featured_video_id }}" frameborder="0" allowfullscreen></iframe>
         {% endif %}
+        <h1 class="special"> Hola </h1>
     </div>
 {% endif %}
 
