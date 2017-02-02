@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Scotch Jekyll Bootstrap'
-description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
-url: 'http://scotch-io.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+title: 'I Jornadas de INNOVACIÓN  METODOLÓGICA EN EDUCACIÓN'
+description: '22 - 23 de Septiembre en Zaragoza'
+url: 'http://localhost:4000' # the base hostname & protocol for your site
+footer_text: 'Dirección General de Innovación, Equidad y Participación del Departamento de Educación, Cultura y Deporte'
 
 # Admin Settings
-admin_name: 'Nicholas Cerminara'
-admin_email: 'nick@scotch.io'
+admin_name: 'Innovación educativa'
+admin_email: 'proyectosdeinnovacion@aragon.es'
 
