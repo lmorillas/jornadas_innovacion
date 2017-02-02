@@ -1,8 +1,8 @@
 main:
-    - { url: '/objetivos', text: 'Objetivos' }
-    - { url: '/programa', text: 'Programa' }
-    - { url: '/ponentes', text: 'Ponentes' }
-    - { url: '/talleres', text: 'Talleres' }
-    - { url: '/comunicaciones', text: 'Comunicaciones' }
-    - { url: '/contacto', text: 'Contacto' }
-    - { url: '/about', text: 'Acerca de' }
+    - { url: 'objetivos', text: 'Objetivos' }
+    - { url: 'programa', text: 'Programa' }
+    - { url: 'ponentes', text: 'Ponentes' }
+    - { url: 'talleres', text: 'Talleres' }
+    - { url: 'comunicaciones', text: 'Comunicaciones' }
+    - { url: 'contacto', text: 'Contacto' }
+    - { url: 'about', text: 'Acerca de' }
