@@ -320,3 +320,15 @@ div.ponentes {
     }
 
 }
+
+div.talleres{
+    font-size: 16px;
+    text-align: center;
+    .desc {
+      font-style: italic;
+    }
+    p {
+    margin: 0px;
+    }
+
+}
