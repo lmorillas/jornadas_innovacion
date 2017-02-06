@@ -1,0 +1,25 @@
+ponentes:
+  - name: Richard Gerver
+    breve: Premio Nacional de Enseñanza en Reino Unido
+    desc: "Richard Gerver es profesor y un reconocido ponente experto en liderazgo y cambio organizativo."
+    mas: http://www.richardgerver.com/
+    img: richardgerver.jpg
+
+  - name: Mar Romera
+    breve: Presidenta de la Asociación Pedagógica Francesco Tonucci
+    desc: "Mar Romera  es maestra, licenciada en Pedagogía y Psicopedagogía. Especialista en Inteligencia emocional y autora de diversos libros dedicados a la escuela, la infancia y la didáctica activa."
+    mas: http://www.waece.org/congresoaprenderapensar/expertos/bio_marromera.htm
+    img: marromera.jpg
+
+  - name: Mila Naranjo
+    breve: "Departamento de Psicología de la Facultad de Educación, Traducción y Ciencias Humanas de la Universidad de Vic"
+    desc: "Mila Naranjo es especialista en Aprendizaje Cooperativo"
+    mas: https://www.facebook.com/mila.naranjollanos
+    img: milanaranjo.jpg
+
+mesa:
+  name: Cesar Bona
+  breve: Finalista del Global Teacher Prize, Premio Nobel de la Educación
+  desc: "Cesar Bona, licenciado en filología inglesa y diplomado en magisterio en lengua extranjera por la Universidad de Zaragoza. Apuesta por la educación en el compromiso social de los alumnos y el estímulo del pensamiento crítico."
+  mas: https://www.facebook.com/cesar.bona.37/
+  img: cesarbona.jpg

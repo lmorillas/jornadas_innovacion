@@ -2327,3 +2327,5 @@ pre { margin: 75px -100px; }
   h1.special, .tile h2 { font-size: 40px; line-height: 44px; }
   .tile .inner-guts { padding: 15px 25px; }
   .tile .excerpt { font-size: 22px; line-height: 35px; } }
+div.ponentes { font-size: 14px; }
+div.ponentes .breve { font-style: italic; }
