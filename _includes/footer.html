@@ -1,19 +1,24 @@
-
-    <footer class="site-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="text-muted">{{ site.data.global.footer_text }}</p>
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-2">
+                    <img src="{{site.baseurl}}/imgs/logolacaixa.jpg" class="pull-left img-responsive" alt="logo la caixa">
+                </div>
+                <div class="col-md-8">
+                    <p class="text-muted text-center">{{ site.data.global.footer_text }}</p>
+                </div>
+                <div class="col-md-2">
+                    <img src="{{site.baseurl}}/imgs/logogobiernoaragon.jpg" class="img-responsive pull-right" alt="logo Gobierno de Aragón">
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
+<!-- JavaScript -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/js/power.js"></script>
+</body>
 
-
-    <!-- JavaScript -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="{{ site.baseurl }}/js/power.js"></script>
-
-    </body>
 </html>
