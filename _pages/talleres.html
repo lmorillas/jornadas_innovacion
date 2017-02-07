@@ -1,15 +1,18 @@
----
-layout: inner
-title: Talleres
-permalink: /talleres/
+--- 
+layout: default 
+title: Talleres 
+permalink: /talleres/ 
 ---
 
+
 <div class="row talleres">
-{% for taller in site.data.talleres %}
-  <div class="col-sm-4 taller">
-    <h3>{{taller.nombre}}</h3>
-    <p> {{taller.conductor}}</p>
-    <p class="desc"> {{taller.desc}}</p>
-  </div>
-{% endfor %}
+    {% for taller in site.data.talleres %}
+    <div class="col-sm-4 taller">
+        <div class="thumbnail">
+            <h3>{{taller.nombre}}</h3>
+            <p> {{taller.conductor}}</p>
+            <p class="desc"> {{taller.desc}}</p>
+        </div>
+    </div>
+    {% endfor %}
 </div>
