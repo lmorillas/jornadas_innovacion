@@ -32,7 +32,7 @@ permalink: /programa/
 <br>
 Café<br>
 <br>
-12:00-14:15 Talleres simultaneos IV y V<br>
+12:00-14:15 Talleres simultáneos IV y V<br>
 <br>
 Tiempo de comida<br>
 <br>
@@ -41,7 +41,7 @@ Tiempo de comida<br>
 17:00-18:30 Comunicaciones<br>
 <br>
 Descanso
-<br>
+<br><br>
 18:45-19:45 Ponencia plenaria 2<br>
 <br>
 19:45-20:30 Mesa redonda ponentes
